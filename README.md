@@ -43,7 +43,7 @@ Leaderboards: Create an online leaderboard to showcase top scores globally, fost
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
-##Demo
+
 <img width="404" alt="image" src="https://github.com/imaruneshmaurya/snake-game/assets/95268086/1717e9db-e2b3-48c0-9f02-39d27495d0e0">
 
 
