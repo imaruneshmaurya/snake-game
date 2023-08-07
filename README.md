@@ -43,6 +43,12 @@ Leaderboards: Create an online leaderboard to showcase top scores globally, fost
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
+##Demo
+<img width="404" alt="image" src="https://github.com/imaruneshmaurya/snake-game/assets/95268086/1717e9db-e2b3-48c0-9f02-39d27495d0e0">
+
+
+Demo Link https://shorturl.at/sLOX2
+
 
 ## Conclusion 🎉
 The Classic Snake Game with High Score Tracker is a nostalgic yet modern gaming experience that captures the essence of the original Snake game while adding modern features like a high score tracking system. Built using HTML, CSS, and JavaScript, the game promises hours of entertainment and the opportunity for players to challenge themselves and others for the highest scores. With its user-friendly interface, responsive design, and potential for future enhancements, this project showcases the capabilities of web technologies in creating engaging and interactive gaming applications.
